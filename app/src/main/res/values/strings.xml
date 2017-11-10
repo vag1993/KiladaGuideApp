@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Kilada Guide App</string>
+    <string name="tap">Tap to Proceed</string>
+    <string name="mainText">Welcome to Kilada Guide App</string>
+    <string name="aboveMain">Everything you should know about</string>
+    <string name="sightText">Sightseeings</string>
+    <string name="beachesText">Beaches</string>
+    <string name="nightlifeText">Nightlife</string>
+    <string name="restaurantsText">Restaurants</string>
+    <string name="fraght">Franchthi Pehistoric Cave</string>
+    <string name="evange">Annunciation of Mary Cathedral</string>
+    <string name="panag">Assumption of Mary Monastery</string>
+    <string name="ugro">Kilada\'s Wetland</string>
+    <string name="nick">St. Nicolas Cape</string>
+
+    <string name="lepitsa">Lepitsa Beach</string>
+    <string name="evangebeach">Evangelistria Beach</string>
+    <string name="doroufi">Doroufi Beach</string>
+    <string name="thunilakkes">Thuni / Lakkes Beach</string>
+    <string name="vroxitsa">Vroxitsa Beach</string>
+
+    <string name="lekkas">Sugar Coffe &amp; More</string>
+    <string name="stapas">Retro</string>
+    <string name="valley">Valley</string>
+    <string name="tzitzikas">Tzitzikas Cafe</string>
+    <string name="flo">Happy Flo</string>
+    <string name="petrino">Petrino Seaside</string>
+
+    <string name="aggelos">Mouragio Restaurant</string>
+    <string name="ntaglas">Ntaglas</string>
+    <string name="thodoris">Lepitsa Restaurant</string>
+    <string name="megas">Fishtavern Megas &amp; Son</string>
+    <string name="german">Germanos Grill</string>
+    <string name="katerina">Polygeusto Grill</string>
+
+
+
+
+
+
+</resources>
